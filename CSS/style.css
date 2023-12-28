@@ -1,0 +1,38 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
+.banner{
+    background-image: url(./images/vecteezy_office-desk-table-top-view-with-office-supplies_3841398.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 200px 0px;
+}
+#name-banner{
+    font-size: 60px;
+}
+#skills-banner{
+    font-size: 27px;
+}
+.skills-cards{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+#con-form{
+    border-radius: 10px;
+}
+#footer-txt{
+    color: white;
+}
+#about-txt{
+    border-radius: 30px;
+    display: flex;
+    flex-direction: row;
+}
+#profile{
+    border-radius: 30px;
+}
+.individual-card{
+    height: 98%;
+}
